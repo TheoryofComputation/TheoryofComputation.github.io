@@ -6,6 +6,19 @@
 
 ---
 
+## Day 2: Tuesday, January 16, 2024 - on delay 10:00 - 11:20 am
+
+- Today's meeting is on Teams - link is in Moodle and Slack
+
+### Day 2: In class
+
+- Discuss book readings and technical issues with Canvas
+- Complete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
+
+**Day 2: Outside of class**
+
+- Read Section 1.04 1.4. Grammar Exercises from [Formal Languages and Automata (FLA) Chapter 1 Introduction](https://canvas.instructure.com/courses/8434722). Because of the problems with Canvas, I am asking you to take screenshots of each exercise.
+
 ## Day 1: Thursday, January 11, 2024
 
 ### Day 1: In class
