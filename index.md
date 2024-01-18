@@ -12,7 +12,7 @@
 
 - Discuss teamwork and book readings
 - Class demo
-- Cpmplete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
+- Complete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
 
 ### Day 3: Outside of class
 
