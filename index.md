@@ -6,6 +6,24 @@
 
 ---
 
+## Day 3: Thursday, January 18, 2024
+
+### Day 3: In class
+
+- Discuss teamwork and book readings
+- Class demo
+- Cpmplete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
+
+### Day 3: Outside of class
+
+- Read Sections 02.01 Set Notation and 2.02. Relations from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
+## Day 2: Tuesday, January 16, 2024 - on delay 10:00 - 11:20 am
+
+- Today's meeting is on Teams - link is in Moodle and Slack
+
+### Day 2: In class
+
 ## Day 2: Tuesday, January 16, 2024 - on delay 10:00 - 11:20 am
 
 - Today's meeting is on Teams - link is in Moodle and Slack
@@ -13,11 +31,11 @@
 ### Day 2: In class
 
 - Discuss book readings and technical issues with Canvas
-- Complete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
+- Begin [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
 
-**Day 2: Outside of class**
+### Day 2: Outside of class
 
-- Read Section 1.04 1.4. Grammar Exercises from [Formal Languages and Automata (FLA) Chapter 1 Introduction](https://canvas.instructure.com/courses/8434722). Because of the problems with Canvas, I am asking you to take screenshots of each exercise.
+- Read Section 1.04 1.4. Grammar Exercises from [Formal Languages and Automata (FLA) Chapter 1 Introduction](https://canvas.instructure.com/courses/8434722).
 
 ## Day 1: Thursday, January 11, 2024
 
@@ -34,7 +52,7 @@
 - Explore the syllabus a bit
 - Introduce A01
 
-**Day 1: Outside of class** (all due by 8 am of our next class day):
+### Day 1: Outside of class (all due by 8 am of our next class day):
 
 - Complete [A01:Getting Started](https://docs.google.com/document/d/1m36CNKj2ksPqhKscH_gl-yCExNiAAKTQZFJOfWohYRY/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
   1. Help us get to know you better
