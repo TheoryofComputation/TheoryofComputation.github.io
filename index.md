@@ -6,23 +6,28 @@
 
 ---
 
+## Day 4: Tuesday, January 23, 2024
+
+### Day 4: In class
+
+- Discuss Readings - Sections 02.01 Set Notation and 2.02. Relations from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Complete [T02: Exploring Relationms](https://docs.google.com/document/d/1W9LlpX-u9DM5X_10AmmpLvGoh_msGd436yvap9XxzTo/edit?usp=sharing).
+
+### Day 4: Outside of class
+
+- Read Section 02.03 on Mathematical Proof Techniques. Relations from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
 ## Day 3: Thursday, January 18, 2024
 
 ### Day 3: In class
 
-- Discuss teamwork and book readings
 - Class demo
+- Discuss teamwork and book readings
 - Complete [T01: Exploring Languages](https://docs.google.com/document/d/1bCldqRk81r3mXGy8WfNjdP8FtkcU4Xp787YbcRo-RLI/edit?usp=sharing)
 
 ### Day 3: Outside of class
 
 - Read Sections 02.01 Set Notation and 2.02. Relations from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-
-## Day 2: Tuesday, January 16, 2024 - on delay 10:00 - 11:20 am
-
-- Today's meeting is on Teams - link is in Moodle and Slack
-
-### Day 2: In class
 
 ## Day 2: Tuesday, January 16, 2024 - on delay 10:00 - 11:20 am
 
