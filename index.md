@@ -6,6 +6,16 @@
 
 ---
 
+## Day 5: Thursday, January 25, 2024
+
+### Day 5: In class
+
+- Discuss Readings - Sections 02.03. Mathematical Proofs from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
+### Day 5: Outside of class
+
+- TBA from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
 ## Day 4: Tuesday, January 23, 2024
 
 ### Day 4: In class
