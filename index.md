@@ -11,7 +11,7 @@
 ### Day 6: In class
 
 - Discuss Reading - Sections 03.01 DFA: Deterministic Finite Acceptor from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-- Try some DFA exercises
+- Try some [DFA example exercises](https://docs.google.com/presentation/d/1hcyR8Hz1PWm3qKh29axdmswkn9IjlBFlqqqlW4PSazs/edit?usp=sharing)
 - Complete [T03: Exploring Proof and Proof Terminology](https://docs.google.com/document/d/1bauSQXGr1o2S8zcWBbnLPemD2-4oYaA-X3NQLA9YytQ/edit?usp=sharing).
 
 ### Day 6: Outside of class
