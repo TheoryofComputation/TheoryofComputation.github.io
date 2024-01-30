@@ -6,11 +6,24 @@
 
 ---
 
+## Day 6: Tuesday, January 30, 2024
+
+### Day 6: In class
+
+- Discuss Reading - Sections 03.01 DFA: Deterministic Finite Acceptor from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Try some DFA exercises
+- Complete [T03: Exploring Proof and Proof Terminology](https://docs.google.com/document/d/1bauSQXGr1o2S8zcWBbnLPemD2-4oYaA-X3NQLA9YytQ/edit?usp=sharing).
+
+### Day 6: Outside of class
+
+- Complete Exercises - Sections 03.02 DFA Exercises from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
 ## Day 5: Thursday, January 25, 2024
 
 ### Day 5: In class
 
-- Discuss Readings - Sections 02.03. Mathematical Proofs from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Discuss Reading - Section 02.03. Mathematical Proofs from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Begin [T03: Exploring Proof and Proof Terminology](https://docs.google.com/document/d/1bauSQXGr1o2S8zcWBbnLPemD2-4oYaA-X3NQLA9YytQ/edit?usp=sharing).
 
 ### Day 5: Outside of class
 
@@ -21,7 +34,7 @@
 ### Day 4: In class
 
 - Discuss Readings - Sections 02.01 Set Notation and 2.02. Relations from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-- Complete [T02: Exploring Relationms](https://docs.google.com/document/d/1W9LlpX-u9DM5X_10AmmpLvGoh_msGd436yvap9XxzTo/edit?usp=sharing).
+- Complete [T02: Exploring Relations](https://docs.google.com/document/d/1W9LlpX-u9DM5X_10AmmpLvGoh_msGd436yvap9XxzTo/edit?usp=sharing).
 
 ### Day 4: Outside of class
 
