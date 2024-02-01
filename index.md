@@ -11,9 +11,9 @@
 ### Day 7: In class
 
 - Discuss Exercises - Sections 03.02 DFA Exercises from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-- Introduction to NFA Non-deterministic Finite Automata
+- Introduction to [NFA Non-deterministic Finite Automata](https://docs.google.com/presentation/d/1B6oXQTmuDRmrElQ3LEqsD_00ERDpV1XzPRGEKfjyYno/edit?usp=sharing)
 
-- Complete the Chapter 3 Readings (3.03, 3.04, and 3.05) in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722) by 12:01 am on Tuesday, February 6, 2024.
+- Complete the Chapter 3 Readings (3.03, 3.04, and 3.05) in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722) by 12:59 am on Tuesday, February 6, 2024.
 
 ## Day 6: Tuesday, January 30, 2024
 
