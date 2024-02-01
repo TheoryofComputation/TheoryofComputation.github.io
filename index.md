@@ -6,6 +6,15 @@
 
 ---
 
+## Day 7: Thursday, February 1, 2024
+
+### Day 7: In class
+
+- Discuss Exercises - Sections 03.02 DFA Exercises from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Introduction to NFA Non-deterministic Finite Automata
+
+- Complete Readings in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
 ## Day 6: Tuesday, January 30, 2024
 
 ### Day 6: In class
