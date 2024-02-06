@@ -24,7 +24,7 @@
 
 ### Day 7: Outside of class
 
-- Complete reading in 04.01 Regular Expressions in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Complete reading in 04.01 Regular Expressions in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722), and try some of the exercises in 4.02, but don't worry if you don't get them all.
 
 ## Day 6: Tuesday, January 30, 2024
 
