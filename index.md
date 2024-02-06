@@ -13,6 +13,10 @@
 - Discuss readings and exercises
 - Begin learning about regular expressions with [T04: What is RegEx??](https://docs.google.com/document/d/1QlMtKEkUTRNz8-xoPn7Mj6FXJ1j3VtzbVNXaOZISAME/edit?usp=sharing)
 
+### Day 8: Outside of class
+
+- Complete reading in 04.01 Regular Expressions in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722), and try some of the exercises in 4.02, but don't worry if you don't get them all.
+
 ## Day 7: Thursday, February 1, 2024
 
 ### Day 7: In class
@@ -20,11 +24,9 @@
 - Discuss Exercises - Sections 03.02 DFA Exercises from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
 - Introduction to [NFA Non-deterministic Finite Automata](https://docs.google.com/presentation/d/1B6oXQTmuDRmrElQ3LEqsD_00ERDpV1XzPRGEKfjyYno/edit?usp=sharing)
 
-- Complete the Chapter 3 Readings (3.03, 3.04, and 3.05) in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722) by 12:59 am on Tuesday, February 6, 2024.
-
 ### Day 7: Outside of class
 
-- Complete reading in 04.01 Regular Expressions in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722), and try some of the exercises in 4.02, but don't worry if you don't get them all.
+- Complete the Chapter 3 Readings (3.03, 3.04, and 3.05) in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722) by 12:59 am on Tuesday, February 6, 2024.
 
 ## Day 6: Tuesday, January 30, 2024
 
