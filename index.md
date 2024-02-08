@@ -11,12 +11,11 @@
 ### Day 9: In class
 
 - Discuss first exam date
-- Work through 04.03 together [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722)
-- Tackle 04.02 [T05: NFAs and RegEx](hhttps://docs.google.com/document/d/1Kx5xrl8nSoE69ptfsJIKLF6hV8Sco83dbQ7i-AENtd8/edit?usp=sharing)
+- Tackle 04.02 with [T05: NFAs and RegEx](hhttps://docs.google.com/document/d/1Kx5xrl8nSoE69ptfsJIKLF6hV8Sco83dbQ7i-AENtd8/edit?usp=sharing)
 
 ### Day 9: Outside of class
 
-- Read 4.04 on Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722)
+- Read 4.03 on Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722)
 
 ## Day 8: Tuesday, February 6, 2024
 
