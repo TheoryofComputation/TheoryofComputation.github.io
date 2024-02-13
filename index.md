@@ -6,6 +6,20 @@
 
 ---
 
+## Announcement: First Exam will be Tuesday, February 20, 2024
+
+## Day 10: Thursday, February 8, 2024
+
+### Day 10: In class
+
+- Discuss readings and announce first exam date
+- Presentation [NFA → Regular Expression Examples](https://docs.google.com/presentation/d/1ZOvQ7UD3FUwz3WmktJqXErl9r0NC7VcDykpr5WWDxZs/edit?usp=drive_link)
+- Complete 04.02 with [T05: NFAs and RegEx](hhttps://docs.google.com/document/d/1Kx5xrl8nSoE69ptfsJIKLF6hV8Sco83dbQ7i-AENtd8/edit?usp=sharing)
+
+### Day 10: Outside of class
+
+- Complete [A01: Individual E1 Review and Reflection](https://docs.google.com/document/d/1bG62IyQqo54YUyPYLPxxUIJWTke58iFOUy6pcfN-cDo/edit?usp=sharing)
+
 ## Day 9: Thursday, February 8, 2024
 
 ### Day 9: In class
