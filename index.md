@@ -8,7 +8,7 @@
 
 ## Announcement: First Exam will be Tuesday, February 20, 2024
 
-## Day 10: Thursday, February 8, 2024
+## Day 10: Tuesday, February 13, 2024
 
 ### Day 10: In class
 
