@@ -8,12 +8,15 @@
 
 ## Announcement: First Exam, E1, will be Tuesday, February 20, 2024
 
-## Day 11: Thursday, February 15, 2024
+## Day 12: Tuesday, February 20, 2024
 
-### Day 11: In class
+### Day 12: In class
 
-- Discuss exam E1
-- Try to complete [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1fTKCBcaknB-K4wU1g757ZBzuBHKuxWTrf_EnMhbxvIY/edit?usp=sharing)
+- Exam E1
+
+### Day 12: Outside of class
+
+- For Thursday, February 22, 2024, read 4.04 Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class. This material will NOT be on exam E1.
 
 ### Day 11: Outside of class
 
