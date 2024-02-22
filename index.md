@@ -15,7 +15,7 @@
 
 ### Day 13: Outside of class
 
-- For Tuesday, February 27, 2024, read 4.05 Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class.
+- For Tuesday, February 27, 2024, read 4.05 and 4.06 of Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class.
 
 ## Day 12: Tuesday, February 20, 2024
 
