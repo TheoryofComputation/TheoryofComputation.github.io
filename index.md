@@ -6,7 +6,16 @@
 
 ---
 
-## Announcement: First Exam, E1, will be Tuesday, February 20, 2024
+## Day 13: Thursday, February 22, 2024
+
+### Day 13: In class
+
+- Discuss readings and exercises
+- Complete [T06: Grammars](https://docs.google.com/document/d/1RRp2vF-RrYPyb_zb_wmfqSFausdvOA05jPxzXbPmub4/edit?usp=sharing)
+
+### Day 13: Outside of class
+
+- For Tuesday, February 27, 2024, read 4.05 Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class.
 
 ## Day 12: Tuesday, February 20, 2024
 
@@ -17,6 +26,8 @@
 ### Day 12: Outside of class
 
 - For Thursday, February 22, 2024, read 4.04 Regular Grammars in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class. This material will NOT be on exam E1.
+
+## Announcement: First Exam, E1, will be Tuesday, February 20, 2024
 
 ### Day 11: Outside of class
 
