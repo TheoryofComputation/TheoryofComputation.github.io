@@ -6,6 +6,8 @@
 
 ---
 
+## Have a nice Spring Break!
+
 ## Day 14: Thursday, February 29, 2024
 
 ### Day 14: In class
