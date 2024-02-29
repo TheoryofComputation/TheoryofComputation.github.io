@@ -6,6 +6,20 @@
 
 ---
 
+## Day 14: Thursday, February 29, 2024
+
+### Day 14: In class
+
+- Presentation on [Infinities and Computation](
+https://docs.google.com/presentation/d/1a-LbB5x_nz-UhByVgfuy0o_MdeLthmFCidg4BvMdaGs/edit?usp=sharing)
+- Debrief on Exam E1 and work problems from the exam
+
+### Day 14: Outside of class
+
+- For Tuesday, March 11, 2024, read 5.01 on Non-Regular Languages in [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class.
+
+## Tuesday, February 27, 2024: Labor Day, no class.
+
 ## Day 13: Thursday, February 22, 2024
 
 ### Day 13: In class
