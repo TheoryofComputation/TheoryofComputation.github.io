@@ -11,7 +11,7 @@
 ### Day 15: In class
 
 - Discuss [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-- Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/1bauSQXGr1o2S8zcWBbnLPemD2-4oYaA-X3NQLA9YytQ/edit?usp=sharing)
+- Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/16FnRvn2RQSuUVL7KD9MNlU7VTqoueUZDSj2eiIC_ZI0/edit?usp=sharing)
 
 ### Day 16: Outside of class
 
