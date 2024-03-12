@@ -6,6 +6,17 @@
 
 ---
 
+## Day 15: Tuesday, March 12, 2024
+
+### Day 15: In class
+
+- Discuss [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/1bauSQXGr1o2S8zcWBbnLPemD2-4oYaA-X3NQLA9YytQ/edit?usp=sharing)
+
+### Day 16: Outside of class
+
+- For next time, read 6.01 on on Context-Free Gammars, Part 1 [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722). Remember that this must be done by the midnight before class.
+
 ## Have a nice Spring Break!
 
 ## Day 14: Thursday, February 29, 2024
