@@ -6,12 +6,28 @@
 
 ---
 
+## Day 16: Thursday, March 14, 2024
+
+### Day 16: In class
+
+- Next exam in last week of March
+- Discuss reading from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Presentation on [Implications of the Pumping Lemma](
+https://docs.google.com/presentation/d/1a-LbB5x_nz-UhByVgfuy0o_MdeLthmFCidg4BvMdaGs/edit?usp=sharing)
+- Watch [What is the Pumping Lemma](https://youtu.be/qtnNyUlO6vU?feature=shared)
+- Watch [Nonregular languages: How to use the Pumping Lemma](https://youtu.be/Ph7Z9YttM0Q?feature=shared)
+- Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/16FnRvn2RQSuUVL7KD9MNlU7VTqoueUZDSj2eiIC_ZI0/edit?usp=sharing)
+
+### Day 16: Outside of class
+
+- For next time, read 6.02 on on Context-Free Grammars, Part 2 [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+
 ## Day 15: Tuesday, March 12, 2024
 
 ### Day 15: In class
 
 - Discuss [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
-- Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/16FnRvn2RQSuUVL7KD9MNlU7VTqoueUZDSj2eiIC_ZI0/edit?usp=sharing)
+- Begin [T07: The Pumping Lemma](https://docs.google.com/document/d/16FnRvn2RQSuUVL7KD9MNlU7VTqoueUZDSj2eiIC_ZI0/edit?usp=sharing)
 
 ### Day 16: Outside of class
 
