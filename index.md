@@ -13,7 +13,7 @@
 - Next exam in last week of March
 - Discuss reading from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
 - Presentation on [Implications of the Pumping Lemma](
-https://docs.google.com/presentation/d/1a-LbB5x_nz-UhByVgfuy0o_MdeLthmFCidg4BvMdaGs/edit?usp=sharing)
+https://docs.google.com/presentation/d/17mceEuYkSph8aoFLQU_B6qkfcpEQd0qYgdZc_Gl2mOE/edit?usp=sharing)
 - Watch [What is the Pumping Lemma](https://youtu.be/qtnNyUlO6vU?feature=shared)
 - Watch [Nonregular languages: How to use the Pumping Lemma](https://youtu.be/Ph7Z9YttM0Q?feature=shared)
 - Complete [T07: The Pumping Lemma](https://docs.google.com/document/d/16FnRvn2RQSuUVL7KD9MNlU7VTqoueUZDSj2eiIC_ZI0/edit?usp=sharing)
