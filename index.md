@@ -6,11 +6,22 @@
 
 ---
 
+## Day 17: Tuesday, March 19, 2024
+
+### Day 17: In class
+
+- Complete [T08: Context Free Grammars](https://docs.google.com/document/d/140lzSJOkJ7d_kNWfEkWTXUW7PAfwhN7x2AbdXQ9OupU/edit?usp=sharing)
+
+### Day 17: Outside of class
+
+- For next time, read 6.02 (if you did not get your participation points) and 6.03 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Study for the upcoming exam which will be Thursday, March 28, 2024
+
 ## Day 16: Thursday, March 14, 2024
 
 ### Day 16: In class
 
-- Next exam in last week of March
+- Next exam in last week of March on Thursday, March 28, 2024
 - Discuss reading from [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
 - Presentation on [Implications of the Pumping Lemma](
 https://docs.google.com/presentation/d/17mceEuYkSph8aoFLQU_B6qkfcpEQd0qYgdZc_Gl2mOE/edit?usp=sharing)
