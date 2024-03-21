@@ -6,11 +6,24 @@
 
 ---
 
+## Day 18: Thursday, March 21, 2024
+
+### Day 18: In class
+
+- Discussion of moving exam to Tuesday, April 2, 2024
+- Overview of CFGs
+- Complete [T08: Context Free Grammars](https://docs.google.com/document/d/140lzSJOkJ7d_kNWfEkWTXUW7PAfwhN7x2AbdXQ9OupU/edit?usp=sharing)
+
+### Day 18: Outside of class
+
+- - For next time, complete exercises in 6.04 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Study for the upcoming exam
+
 ## Day 17: Tuesday, March 19, 2024
 
 ### Day 17: In class
 
-- Complete [T08: Context Free Grammars](https://docs.google.com/document/d/140lzSJOkJ7d_kNWfEkWTXUW7PAfwhN7x2AbdXQ9OupU/edit?usp=sharing)
+- Begin [T08: Context Free Grammars](https://docs.google.com/document/d/140lzSJOkJ7d_kNWfEkWTXUW7PAfwhN7x2AbdXQ9OupU/edit?usp=sharing)
 
 ### Day 17: Outside of class
 
