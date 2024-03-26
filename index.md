@@ -6,6 +6,20 @@
 
 ---
 
+## Announcement: Exam E2 will be Tuesday, April 2, 2024
+
+## Day 19: Tuesday, March 26, 2024
+
+### Day 19: In class
+
+- Discussion of exercises in 6.04 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Exploring normalizing CFGs
+
+### Day 19: Outside of class
+
+- For next time, complete 6.05 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Study for the upcoming exam
+
 ## Day 18: Thursday, March 21, 2024
 
 ### Day 18: In class
