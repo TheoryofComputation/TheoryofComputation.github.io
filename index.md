@@ -8,6 +8,21 @@
 
 ## Announcement: Exam E2 will be Tuesday, April 2, 2024
 
+- The main focus of the exam will be on sections 4.03, 4.04 and Chapter 5 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722), however all material from the course is fair game because the earlier material is foundational to the later material.
+
+## Day 20: Thursday, March 28, 2024
+
+### Day 20: In class
+
+- Discussion of 6.05 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Spend 15 minutes playing the Adversary game in Chapter 5 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722).
+- Complete [CSC 303 TR2 Peerwise Review for Exam E2](https://docs.google.com/document/d/1Zxw0roiYASEDGcDd6yCuyvNIVnSR_LvpzzWI0eJogv4/edit?usp=sharing)
+- Exploring normalizing CFGs
+
+### Day 19: Outside of class
+
+- Study for the upcoming exam
+
 ## Day 19: Tuesday, March 26, 2024
 
 ### Day 19: In class
