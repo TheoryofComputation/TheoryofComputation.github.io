@@ -9,6 +9,7 @@
 ## Announcement: Exam E2 will be Tuesday, April 2, 2024
 
 - The main focus of the exam will be on sections 4.03 through 4.06 and Chapter 5 of [Formal Languages and Automata (FLA)](https://canvas.instructure.com/courses/8434722), however all material from the course is fair game because the earlier material is foundational to the later material.
+- [E2 Review Sheet generated in class](https://docs.google.com/document/d/1fbJ1VARcIueQKhVB9ANzrMpz498seJlC3dylbdEiyFw/edit?usp=sharing).
 
 ## Day 20: Thursday, March 28, 2024
 
